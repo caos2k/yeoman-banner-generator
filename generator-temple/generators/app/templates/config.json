@@ -1,0 +1,10 @@
+{
+    "size": {
+        "width": <%= banner_width %>,
+        "height": <%= banner_height %>
+    },
+    "modules": [],
+    "platform": "doubleclick",
+    "variation": "",
+    "language": ""
+}

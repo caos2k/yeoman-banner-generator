@@ -1,0 +1,41 @@
+{
+  "name": "generator-temple",
+  "version": "1.0.0",
+  "description": "second attempt 25_07_2018",
+  "main": "generators/index.js",
+  "dependencies": {
+    "yeoman-generator": "^2.0.1",
+    "chalk": "^2.1.0",
+    "yosay": "^2.0.1"
+  },
+  "devDependencies": {
+    "gulp": "latest",
+    "gulp-util": "latest",
+    "gulp-rename": "latest",
+    "gulp-replace": "latest",
+    "gulp-zip": "latest",
+    "gulp-rimraf": "latest",
+    "gulp-sass": "latest",
+    "gulp-webserver": "latest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Lucio Gagliardi",
+    "email": "lucio.gagliardi@mediamonks.com",
+    "url": "http://www.ladolcevitamultimedia.com"
+  },
+  "license": "ISC",
+  "keywords": [
+    "rich media",
+    "banners",
+    "yeoman-generator"
+  ],
+  "engines": {
+    "npm": ">= 4.0.0"
+  },
+  "files": [
+    "generators"
+  ]
+}

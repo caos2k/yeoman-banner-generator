@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Lucio Gagliardi",
+      "authorEmail": "lucio.gagliardi@mediamonks.com",
+      "authorUrl": ""
+    }
+  }
+}
